@@ -23,5 +23,5 @@ package com.infoskillstechnology.demobasicauthentication;
 
 public final class Utils {
 
-    public static final String HTTP = "http://tradexl.com/";
+    public static final String HTTP = "asdasdasdasdsa";
 }

@@ -28,6 +28,6 @@ import retrofit2.http.GET;
 
 public interface ApiService {
 
-    @GET("lp/tapi/enquiries/listi?where=user_id%7C2357")
+    @GET("")
     Call<TradeXLModel> getData();
 }
